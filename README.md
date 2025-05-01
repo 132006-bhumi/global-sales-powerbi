@@ -27,6 +27,8 @@ This project presents a dynamic Power BI dashboard offering a global perspective
 6. Which products contribute most to profits?
 
 7. Which products are causing losses, and by how much?
+
+8. How does sales performance vary by year and location?
 # 📌 Findings and Conclusion
 • Total Global Sales: $12M with 169K units sold
 
@@ -51,4 +53,3 @@ This dashboard helps organizations monitor international sales performance, iden
 The Global Sales Power BI dashboard offers actionable intelligence across regions, customer types, and product lines. By surfacing both high-performing and underperforming segments, it equips business leaders with the clarity needed to scale winning strategies and fix inefficiencies—ensuring sustainable growth in a competitive global market.
    
 
-How does sales performance vary by year and location?
